@@ -1,4 +1,20 @@
-## Hi there 👋
+# Hi there 👋, I'm Jaishil Trivedi
+
+🎓 Data Science Enthusiast | 💻 Python Developer | 📊 ML Practitioner
+
+## 🛠️ Skills
+- **Languages:** Python, SQL
+- **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
+- **Tools:** Jupyter, Git, Docker, Tableau, Power BI
+- **ML:** Regression, Classification, NLP, Deep Learning
+
+## 📫 Connect with Me
+- LinkedIn: []
+- Portfolio: [your-link]
+- Email: your@email.com
+
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
 <!--
 **jaishiltrivedi403-eng/jaishiltrivedi403-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
